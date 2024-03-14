@@ -1,12 +1,12 @@
-
 {
-  "name": "express",
+  "name": "48-grupe-express",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "dev": "nodemon .",
+      "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Matas (https://github.com/MatasMM)",
